@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using TStack.Proxy.Models;
 
 namespace TStack.Proxy.Aspects
 {
